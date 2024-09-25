@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beyzacevik.be.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
-    "time": 844,
-    "timeDay": 844,
-    "timeWeek": 844,
-    "timeMonth": 844,
-    "timeYear": 844,
-    "dailyMinutesDown": {
-      "2024-09-24": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 903,
+    "timeDay": 903,
+    "timeWeek": 903,
+    "timeMonth": 903,
+    "timeYear": 903,
+    "dailyMinutesDown": {}
   }
 ]
