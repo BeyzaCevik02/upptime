@@ -4,19 +4,19 @@
     "url": "https://beyzacevik.be/",
     "icon": "https://icons.duckduckgo.com/ip3/beyzacevik.be.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 856,
     "timeDay": 1022,
     "timeWeek": 917,
     "timeMonth": 856,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2024-10-19": 32,
+      "2024-10-19": 24,
       "2024-10-18": 35
     }
   }
