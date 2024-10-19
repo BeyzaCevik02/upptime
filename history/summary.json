@@ -4,7 +4,7 @@
     "url": "https://beyzacevik.be/",
     "icon": "https://icons.duckduckgo.com/ip3/beyzacevik.be.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "97.58%",
     "uptimeWeek": "99.65%",
@@ -16,6 +16,7 @@
     "timeMonth": 868,
     "timeYear": 868,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-10-18": 35
     }
   }
